@@ -1,72 +1,92 @@
-# Hi, I'm M. Yehya 👋
+# Hi 👋 My name is M. Yehya
 
-### Third-Year Computer Science Student | Full-Stack Development
+## Aspiring Software Engineer & Full-Stack Developer
 
-Computer Science student at the Lebanese University – Faculty of Science.
+Hello! I'm M. Yehya, a third-year Computer Science student at the
+**Lebanese University – Faculty of Science**.
 
 I'm focused on software engineering and full-stack web development,
-currently building applications with Vue.js, Laravel, MySQL, and REST APIs.
+and I enjoy learning by building complete applications rather than
+only following tutorials.
+
+🚀 I'm especially interested in:
+
+- 💻 Full-Stack Web Development
+- ⚙️ Backend Development & REST APIs
+- 🗄️ Database Design
+- 🏗️ Software Engineering & Architecture
+- 🔐 Authentication & Application Security
+- 🤖 Artificial Intelligence & Machine Learning
+
+📂 Feel free to explore my repositories to see what I'm currently building and learning!
+
+- 📍 Based in Lebanon
+- 🎓 Third-Year Computer Science Student
+- 🔭 Currently working on **CareerHub**
+- 🌱 Currently learning **Vue.js, Laravel, Software Engineering & AI**
 
 ---
 
-## 🚀 What I'm Working On
+## 🛠️ Skills
+
+### Languages
+
+[![Languages](https://skillicons.dev/icons?i=c,java,python,js,php)](https://skillicons.dev)
+
+### Frontend
+
+[![Frontend](https://skillicons.dev/icons?i=vue,html,css,tailwind)](https://skillicons.dev)
+
+### Backend & Database
+
+[![Backend](https://skillicons.dev/icons?i=laravel,mysql)](https://skillicons.dev)
+
+### Tools
+
+[![Tools](https://skillicons.dev/icons?i=git,github,vscode,linux)](https://skillicons.dev)
+
+---
+
+## 🚀 Current Project
 
 ### CareerHub
 
-A full-stack recruitment and job management platform built to practice
-real-world software engineering concepts.
+A full-stack recruitment and job management platform I'm building to
+practice real-world software engineering and full-stack development.
 
-**Tech Stack**
+**Technologies**
 
-Vue.js • Laravel • MySQL • Tailwind CSS • REST API
+`Vue.js` `Laravel` `MySQL` `Tailwind CSS` `REST API`
 
 Currently working on:
 
 - Job listings and job details
-- Backend API development
-- Database integration
+- Vue frontend integration
+- Laravel REST API
+- MySQL database integration
 - CRUD operations
-- Authentication and authorization
-- Search, filtering, and pagination
+- Authentication & authorization
+- Search, filtering and pagination
 
 ---
 
-## 🛠 Technologies
+## 🎓 Education
 
-### Languages
+### Lebanese University — Faculty of Science
 
-C • Java • Python • JavaScript • PHP • SQL
+**Bachelor's Degree in Computer Science / Informatics**  
+Third-Year Student
 
-### Frontend
 
-Vue.js • HTML • CSS • Tailwind CSS
+## 🌐 Socials
 
-### Backend
+[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/myehya812)
 
-Laravel • REST APIs
-
-### Database
-
-MySQL
-
-### Tools
-
-Git • GitHub • VS Code • Ubuntu
 
 ---
 
+## 📊 GitHub Stats
 
-## 🌱 Current Focus
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=myehya812&show_icons=true&theme=github_dark&hide_border=true)
 
-- Full-stack application development
-- Software engineering practices
-- Clean and maintainable code
-- Backend architecture
-- Database design
-- Authentication and authorization
-
----
-
-## 📫 Connect
-
-LinkedIn • Email
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=myehya812&layout=compact&theme=github_dark&hide_border=true)
