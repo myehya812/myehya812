@@ -74,13 +74,15 @@ Currently working on:
 
 ### Lebanese University — Faculty of Science
 
-**Bachelor's Degree in Computer Science / Informatics**  
-Third-Year Student
+**Bachelor's Degree in Computer Science**  
+**Third-Year Student**
 
+My current studies cover Software Engineering, Backend Web Development,
+Advanced Operating Systems, Computer Networking & Security, Database Systems,
+Parallel Programming, Theory of Computation, and Numerical Simulation & Modeling.
 
-## 🌐 Socials
-
-[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/myehya812)
-
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=myehya812&layout=compact&theme=github_dark&hide_border=true)
+My previous coursework includes Data Structures & Algorithms,
+Object-Oriented Programming with Java, Python Programming, Web Development,
+Database Systems, Operating Systems, Computer Networks, Computer Architecture,
+Computer Organization, Graph Theory, Embedded Systems, Statistics,
+and Logic Programming.
