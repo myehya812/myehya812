@@ -83,10 +83,4 @@ Third-Year Student
 [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/myehya812)
 
 
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=myehya812&show_icons=true&theme=github_dark&hide_border=true)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=myehya812&layout=compact&theme=github_dark&hide_border=true)
