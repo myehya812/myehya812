@@ -55,40 +55,6 @@ Git • GitHub • VS Code • Ubuntu
 
 ---
 
-## 🎓 Computer Science Background
-
-### Current Third-Year Topics
-
-- Software Engineering
-- Server-Side Web Development
-- Operating Systems II
-- Network Administration & Security
-- Database II
-- GUI & Application Development
-- Language Theory
-- Parallel Programming
-- Numerical Simulation & Modeling
-- Software Project
-
-### Previous Relevant Coursework
-
-- Data Structures
-- Object-Oriented Programming
-- Python Programming
-- Imperative Programming
-- Web Development
-- Database I
-- Operating Systems I
-- Computer Networks I
-- Computer Architecture
-- Computer Organization
-- Graph Theory
-- Introduction to Embedded Systems
-- Statistics
-- MATLAB
-- Logic Programming
-
----
 
 ## 🌱 Current Focus
 
