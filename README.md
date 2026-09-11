@@ -1,77 +1,139 @@
 # M. Yehya
 
-Computer Science student focused on building practical full-stack applications and improving my software engineering skills through real projects.
+### Third-Year Computer Science Student | Full-Stack Development
 
-## About
+Computer Science student at the **Lebanese University** focused on software engineering and building practical full-stack applications.
 
-I am currently developing projects with Vue, Laravel, and MySQL while strengthening my understanding of backend development, REST APIs, databases, authentication, authorization, and software architecture.
+Currently working with **Vue.js, Laravel, MySQL, and RESTful APIs** while strengthening my understanding of frontend development, backend systems, databases, and software architecture.
 
-I also have a foundation in C programming, data structures, algorithms, and database concepts.
+---
 
-## Current Project
+## 👨‍💻 About Me
+
+I am a third-year Computer Science student interested in **software engineering and full-stack web development**.
+
+I prefer learning by building complete applications and understanding how the different parts of a system work together — from the user interface and API to the database.
+
+My current focus includes:
+
+* Full-stack web development
+* RESTful API design
+* Database design
+* Authentication & authorization
+* Software architecture
+* Clean and maintainable code
+* Git and version control
+
+I am also gradually expanding my knowledge of **Python, machine learning, and artificial intelligence**.
+
+---
+
+## 🎓 Education
+
+**Lebanese University**
+Bachelor's Degree in Computer Science
+Third-Year Student
+
+### Relevant Coursework
+
+* Object-Oriented Programming
+* Data Structures & Algorithms
+* Database Systems
+* Operating Systems
+* Computer Networks
+* Computer Architecture
+* Web Development
+* Graph Theory
+* Probability
+* Software Engineering
+
+---
+
+## 🚀 Current Project
 
 ### CareerHub
 
-CareerHub is a full-stack recruitment and job management platform built with:
+**CareerHub** is a full-stack recruitment and job-management platform I am developing to practice real-world software engineering and full-stack development.
 
-- Vue 3
-- Laravel
-- MySQL
-- Tailwind CSS
-- REST APIs
+### Tech Stack
 
-The project is being developed progressively to cover real software engineering concepts including:
+* Vue 3
+* Laravel 12
+* MySQL
+* Tailwind CSS
+* Axios
+* RESTful APIs
 
-- CRUD operations
-- Authentication
-- Authorization
-- Database relationships
-- Job applications
-- Search and filtering
-- Pagination
-- File uploads
-- Frontend and backend integration
+### Currently Implemented
 
-Repository:
+* Job listing interface
+* Individual job details
+* Job creation and editing forms
+* Responsive Vue frontend
+* Vue ↔ Laravel REST API integration
+* Laravel ↔ MySQL integration
+* Relational job storage
+* REST API endpoints for retrieving jobs
 
-[CareerHub](https://github.com/myehya812/CareerHub)
+### Planned
 
-## Technical Skills
+* Full CRUD operations
+* User authentication
+* Role-based authorization
+* Company accounts and profiles
+* Job applications
+* Saved jobs
+* Search and filtering
+* Pagination
+* CV uploads
+* Employer and applicant dashboards
+
+The project is being developed progressively as I learn more about **application architecture, backend development, frontend integration, databases, and clean code practices**.
+
+---
+
+## 🛠 Technical Skills
 
 ### Languages
 
-- C
-- JavaScript
-- PHP
-- SQL
+`C` `JavaScript` `PHP` `SQL`
+
+Currently learning: `Python`
 
 ### Frontend
 
-- Vue.js
-- Tailwind CSS
-- HTML
-- CSS
+`Vue.js` `HTML5` `CSS3` `Tailwind CSS`
 
 ### Backend
 
-- Laravel
-- REST APIs
+`Laravel` `RESTful APIs`
 
 ### Database
 
-- MySQL
+`MySQL`
 
 ### Tools
 
-- Git
-- GitHub
-- VS Code
+`Git` `GitHub` `Visual Studio Code` `Vite` `Ubuntu Linux`
 
-## Currently Learning
+---
 
-- Full-stack application architecture
-- REST API design
-- Authentication and authorization
-- Database relationships
-- Git workflows
-- Software engineering practices
+## 📚 Currently Learning
+
+* Vue.js ecosystem
+* Advanced Laravel
+* REST API design
+* Authentication & authorization
+* Database optimization
+* Software architecture
+* Git workflows
+* Clean Code principles
+* Python & Machine Learning fundamentals
+
+---
+
+## 🎯 Goals
+
+My goal is to become a skilled **software engineer** by continuously improving my fundamentals, learning modern technologies, and building practical applications.
+
+This GitHub documents my progress as I develop larger and more complete software projects.
